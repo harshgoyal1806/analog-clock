@@ -16,10 +16,6 @@ A simple analog clock built using HTML, CSS, and JavaScript. This project showca
 - **CSS** is used to style the clock, center elements, and create the rotation origin for the hands.
 - **JavaScript** calculates the current time and applies rotation transforms to the hands, updating every second with `setInterval`.
 
-## 📸 Screenshot
-
-*(You can add a screenshot here to showcase the design)*
-
 ## 🛠 Technologies Used
 
 - HTML5
